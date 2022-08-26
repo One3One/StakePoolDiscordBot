@@ -1,8 +1,7 @@
 # StakePoolDiscordBot
 [StakePoolDiscordBot] is a discord bot that will show you the current amount of delegators of your pool. Created with python by sebybara. 
 
-Buy Me A Coffee 
-$131
+Buy Me A Coffee: $131
 
 How to run
 
